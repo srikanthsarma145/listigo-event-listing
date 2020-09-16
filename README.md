@@ -24,4 +24,4 @@ College event listing web application<br>
 | :------------- | :----------: | -----------: |
 | Pranshu Datta | pranshudatta25@gmail.com | Database Manager |
 | Praveen Raj | praveenraj7@outlook.com | Full Stack Developer |
-| Srikanth Sarma | srikanthsarma280@gmail.com | Visual Designer |
+| Srikanth Sarma | srikanthsarma145@gmail.com | Visual Designer |
